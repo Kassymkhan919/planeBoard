@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D0E04664-1288-4EED-A04F-9F31B3B48A6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Plane/Controllers/PlanesController.cs">
+    <Files>
+      <File FileName="Plane/Startup.cs" Line="62" Column="2" />
+      <File FileName="Plane/Models/PlaneDbContext.cs" Line="17" Column="6" />
+      <File FileName="Plane/Controllers/PlanesController.cs" Line="15" Column="21" />
+      <File FileName="Plane/Models/Plane.cs" Line="4" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Plane PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

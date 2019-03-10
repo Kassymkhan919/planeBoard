@@ -1,0 +1,6 @@
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.csprojAssemblyReference.cache
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.csproj.CoreCompileInputs.cache
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.RazorAssemblyInfo.cache
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.RazorAssemblyInfo.cs
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.AssemblyInfoInputs.cache
+/Users/kasymhan/Documents/angularApp/Plane/Plane/obj/Debug/netcoreapp2.2/Plane.AssemblyInfo.cs

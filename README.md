@@ -1,4 +1,9 @@
 # planeBoard
-Web App for managing hangar of planes. User can view, modify, add and delete plane from hangar. User can add new plane with parameters of plane (i.e. name, capacity, wingspan, Id ). Dashboard allows to see top 4 planes in hangar.
+## Overview
+planeBoard is a web application for managing an airplane hangar. 
 
-Web App for managing hangar of planes. User can view, modify, add and delete plane from hangar. User can add new plane with parameters of plane (i.e. name, capacity, wingspan, Id ). Dashboard allows to see top 4 planes in hangar.
+Users can:
+* view, modify, add and delete planes from the hangar
+* add a new plane using its parameters 
+  * These include name, capacity, wingspan, Id
+* use a dashboard to view the top 4 planes in the hangar
